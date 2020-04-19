@@ -1,6 +1,8 @@
 # Vue-Kalkulator
 
 Vue kalkulator is a simple calculator app using Vue.js
+It can be tested out here:
+https://vue-kalkulator.herokuapp.com/
 
 ## Project setup
 ```

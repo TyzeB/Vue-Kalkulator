@@ -158,6 +158,6 @@ export default {
 
   .btn:hover,
   .operator:hover {
-    opacity: 80%;
+    opacity: 0.9;
   }
 </style>
